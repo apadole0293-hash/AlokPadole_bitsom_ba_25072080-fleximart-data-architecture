@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "P001",
+    "product_name": "Samsung Galaxy S21",
+    "category": "Electronics",
+    "price": 45999,
+    "stock_quantity": 150
+  },
+  {
+    "_id": "P002",
+    "product_name": "Nike Running Shoes",
+    "category": "Fashion",
+    "price": 3499,
+    "stock_quantity": 80
+  },
+  {
+    "_id": "P003",
+    "product_name": "Organic Almonds",
+    "category": "Groceries",
+    "price": 899,
+    "stock_quantity": 200
+  }
+]
